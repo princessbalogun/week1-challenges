@@ -1,13 +1,14 @@
 // task1 create an array of 5 favourite drinks
-let favoriteDrinks = [
+let favouriteDrinks = [
     'fanta',
     'hot chocolate', 
     'dr pepper', 
     'lemonade', 
-    'malt'];
+    'malt'
+];
 
 
-favoriteDrinks.splice(1, 2);
+favouriteDrinks.splice(1, 2);
 console.log(favoriteDrinks);
 
 
